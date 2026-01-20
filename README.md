@@ -1,0 +1,1 @@
+# Tugas-11-Text-to-Image-Menggunakan-Transformer-Stabble-Diffusion-
